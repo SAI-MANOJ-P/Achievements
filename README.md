@@ -17,6 +17,6 @@ Welcome to my **Certifications & Achievements Repository**! This repository serv
 - **Tools:** Google Sheets, ThoughtSpot, Tableau, AWS (S3, Lambda, Glue, CloudWatch)
 
 ## 🏆 Achievements
-- **Teaching Assistant:** Resolved 800+ doubts with an average rating of 4.8, emphasizing collaborative learning and high-quality support.
-- **Analytics Ace:** Awarded for technical expertise in data analytics at ZS, recognizing exceptional skills and contributions to the team.
+- **[Teaching Assistant](https://github.com/SAI-MANOJ-P/Achievements/blob/main/TAship_Completion_Certificate.pdf):** Resolved 800+ doubts with an average [rating](https://github.com/SAI-MANOJ-P/Achievements/blob/main/TAship_Dashboard.png) of 4.8, emphasizing collaborative learning and high-quality support.
+- **[Analytics Ace](https://github.com/SAI-MANOJ-P/Achievements/blob/main/Analytics%20Ace%20-%20ZS%20Nov'24.jpg):** Awarded for technical expertise in data analytics at ZS, recognizing exceptional skills and contributions to the team.
 
