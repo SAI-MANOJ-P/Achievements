@@ -8,9 +8,9 @@ Welcome to my **Certifications & Achievements Repository**! This repository serv
 - **Skills Showcase:** A summary of the skills acquired through these achievements.
 
 ## 📚 Certifications
-- **[Microsoft Certified: Azure Fundamentals (AZ-900)](#)** – *Aug’22*
-- **[Analytics and Data Science Course by Coding Ninjas](#)** – *Sep’23*
-- **[Data Analytics Job Simulation in Forage](#)** – *Oct’23*
+- **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/pandirisaimanoj-5849/credentials/10f02124b58ccc6a)** – *Aug’22*
+- **[Analytics and Data Science Course by Coding Ninjas](https://certificate.codingninjas.com/view/c7fbc408ce0cde1d)** – *Sep’23*
+- **[Data Analytics Job Simulation in Forage](https://github.com/SAI-MANOJ-P/Quantium_virtual_internship_DataAnalytics/blob/master/QVI_Completion_Certificate.pdf)** – *Oct’23*
 
 ## 🛠️ Skills
 - **Technical:** SQL, Python (NumPy, Pandas, Matplotlib), Git
